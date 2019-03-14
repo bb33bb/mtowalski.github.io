@@ -1,8 +1,9 @@
 # [V8] CVE-2019-5790
 
 This blogpost is an analysis of vulnerability reported by Dimitry Fourny from Blue Frost Security which was already fixed in repository but no poc has been released yet. It got me curious how the poc would look like for this bug so I started my research on the bug. I described the way I approached this bug with all the steps, also non-working tries.
+
 https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop_12.html?m=1
-CVE: https://access.redhat.com/security/cve/cve-2019-5790
+https://access.redhat.com/security/cve/cve-2019-5790
 
 Patch : https://github.com/v8/v8/commit/c7410e8ccff855fdb1a1a0a0c6c2690716a96548
 
